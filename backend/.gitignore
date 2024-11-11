@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+node_modules
+.vscode
+.idea
+
+.env
+.env.test
+
+yarn-error.log
+yarn.lock
+
+npm-debug.log*
