@@ -67,7 +67,7 @@ Once extracted, the backend checks the expiry date against the current date to l
 - ![Home Page](./images/01.png)
 - ![Uploading image](./images/02.png)
 - ![getting data](./images/03.png)
-- ![Sample image](./images/driving.png)
+- ![Sample image](./images/driving.jpg)
 
 ---
 
